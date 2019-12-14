@@ -1,6 +1,6 @@
 # MetodosDeOrdenacao
 Métodos De Ordenação:
 - BubbleSort.
--SelectionSort.
--InsertionSort.
--MergeSort
+- SelectionSort.
+- InsertionSort.
+- MergeSort
