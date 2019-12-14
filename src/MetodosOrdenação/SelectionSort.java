@@ -1,5 +1,8 @@
 package MetodosOrdenação;
-
+/**
+ * @author Daniel Vitor
+ *
+ */
 public class SelectionSort {
 
 	public static void main(String[] args) {
